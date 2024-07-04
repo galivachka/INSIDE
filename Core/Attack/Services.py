@@ -1,6 +1,6 @@
-from Core.Attack.Tools.User_Agent import user_agent
-from Core.Attack.Tools.Email import email
-from Core.Attack.Tools.Username import username
+from Attack.Tools.User_Agent import user_agent
+from Attack.Tools.Email import email
+from Attack.Tools.Username import username
 
 
 
